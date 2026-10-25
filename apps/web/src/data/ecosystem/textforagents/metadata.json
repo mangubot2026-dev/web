@@ -1,0 +1,8 @@
+{
+  "name": "TextForAgents",
+  "description": "Text-messaging service for AI agents: a subscription platform providing phone numbers and SMS messaging to AI-agent developers, with agent-native APIs, MCP servers, and x402/USDC payments on Base.",
+  "url": "https://textforagents.com",
+  "imageUrl": "https://textforagents.com/favicon.svg",
+  "category": "ai",
+  "subcategory": "ai"
+}
